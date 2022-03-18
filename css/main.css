@@ -421,7 +421,7 @@ body {
 .hero-section {
   padding-top: 136px;
   padding-bottom: 245px;
-  background-image: url("../../img/hero-watch.jpg");
+  background-image: url("../img/hero-watch.jpg");
   background-repeat: no-repeat;
   background-position-x: calc(50% + 739px);
   background-position-y: calc(50% + 2px);
@@ -596,7 +596,7 @@ body {
   padding-top: 220px;
   margin-top: 50px;
   padding-bottom: 230px;
-  background-image: url("../../img/footer-watch.jpg");
+  background-image: url("../img/footer-watch.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
