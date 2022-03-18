@@ -1,0 +1,15 @@
+.header-list {
+  list-style-type: none;
+  display: flex;
+}
+.header-item ~ .header-item {
+  margin-left: 31.5px;
+}
+.header-list {
+margin: 0;
+padding: 0;
+}
+.header-href {
+  text-decoration: none;
+  color: #898B8D;
+}

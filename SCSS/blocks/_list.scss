@@ -1,0 +1,50 @@
+.spirt-list {
+  margin: 0;
+  padding: 0;
+  padding-left: 28px;
+  list-style-type: none;
+  display: flex;
+  padding-top: 24px;
+}
+.spirt-item {
+  width: 271px;
+  line-height: 20px;
+  color: #898B8D;
+}
+.spirt-item ~ .spirt-item {
+  margin-left: 78px;
+}
+.spirt-span {
+  position: relative;
+  top: -20px;
+  font-size: 50px;
+  color: #898B8D;
+}
+.spirt-text {
+  line-height: 26px;
+  padding-top: 24px;
+  color: #898B8D;
+}
+.spirt-p {
+  text-transform: uppercase;
+  font-size: 15px;
+  color: #000;
+  font-weight: bold;
+}
+.learn-more {
+  margin-left: 43px;
+  text-transform: uppercase;
+  color: rgb(182, 12, 12);
+  font-weight: bold;
+  font-size: 14px;
+  position: relative;
+}
+.learn-more::before {
+  content: "";
+  width: 32px;
+  height: 4px;
+  position: absolute;
+  top: 7px;
+  left: -45px;
+  background-color:rgb(182, 12, 12) ;
+}

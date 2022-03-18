@@ -1,0 +1,29 @@
+.hero-section {
+  padding-top: 136px;
+  padding-bottom: 245px;
+  background-image: url("../../img/hero-watch.jpg");
+  background-repeat: no-repeat;
+  background-position-x: calc(50% + 739px);
+  background-position-y: calc(50% + 2px);
+  background-size: 692px 670px;
+  border-bottom: 1px solid #898B8D;
+}
+.hero-inner {
+  padding-left: 28px;
+}
+.hero-text {
+  width: 468px;
+  height: 109px;
+  padding: 0;
+  margin: 0;
+  border-left: 2px solid #898B8D;
+  margin-top: 50px;
+  padding-left: 34px;
+  line-height: 22px;
+  color: #898B8D;
+}
+.hero-heading {
+  margin: 0;
+  padding: 0;
+  font-size: 47px;
+}
